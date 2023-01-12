@@ -17,16 +17,16 @@ width: 400px;
 height: 200px;
 }
 .weatherIcon{
-  width: 100px;
-  height: 100px;
+  width: 50px;
+  height: 500px;
   margin-top: 2rem;
 }
 .weathercity{
-  font-size: 35px;
+  font-size: 25px;
 }
 .weatherTemp{
-  font-size: 55px;
-  font-weight: 700;
+  font-size: 40px;
+  font-weight: 500;
 }
 .creater{
   display: flex;
